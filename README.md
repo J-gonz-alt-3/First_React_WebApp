@@ -1,6 +1,6 @@
 # Work in Progress
 
-3/4 completed project, however I wanted to upload what I had completed thus far to show competency using React JS to create this Responsive WebApp!
+3/4's completed project, however I wanted to upload what I had completed thus far to show competency using React JS to create this Responsive WebApp!
 
 Most of the important/relevant code is in the src folder.
 
