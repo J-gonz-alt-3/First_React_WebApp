@@ -1,8 +1,18 @@
 # Work in Progress
 
-Currently still in the early part of this project, however I wanted to upload what I had done thus far to show competency using React JS.
+3/4 completed project, however I wanted to upload what I had completed thus far to show competency using React JS to create this Responsive WebApp!
 
-Most of the important/relevant code is in the src folder (if you are interested).
+Most of the important/relevant code is in the src folder.
+
+Webpage components are broken down into sections within the "components" and "containers" sub folders.
+
+For an overall webpage structure, you can see this within the App.js file within my src folder.
+
+# Project Goal
+
+Practice Structure my Webpage within React in such a way that it simplifies my life as far as development goes.
+
+Also good practice with CSS!
 
 Will be working on this daily until finished!
 
