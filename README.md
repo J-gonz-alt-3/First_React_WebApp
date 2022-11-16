@@ -1,3 +1,13 @@
+# Work in Progress
+
+Currently still in the early part of this project, however I wanted to upload what I had done thus far to show competency using React JS.
+
+Most of the important/relevant code is in the src folder (if you are interested).
+
+Will be working on this daily until finished!
+
+***********************************************************************************************
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
