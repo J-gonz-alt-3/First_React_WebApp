@@ -1,6 +1,5 @@
 // React functional component
 // rafce will generate code below
-
 import React from "react";
 
 import {
