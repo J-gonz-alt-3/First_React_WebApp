@@ -6,7 +6,9 @@ Most of the important/relevant code is in the src folder.
 
 Webpage components are broken down into sections within the "components" and "containers" sub folders.
 
-For an overall webpage structure, you can see this within the App.js file within my src folder.
+For an overall webpage structure, you can checkout the App.js file within my src folder.
+
+I also have an "assets" folder within the src folder, however this is mainly to hold my .png files that I would later use within my webpage.
 
 # Project Goal
 
