@@ -13,6 +13,7 @@ Watch as the web app starts adjusting the content accordingly.
 Link to Project: https://gpt3-jpg.com (Hosted on Hostinger).
 
 ********************************************************************************************
+# Code Roadmap
 
 Most of the important/relevant code is in the src folder.
 
@@ -22,6 +23,8 @@ For an overall webpage structure, you can checkout the App.js file within my src
 
 I also have an "assets" folder within the src folder, however this is mainly to hold my .png files that I would later use within my webpage.
 
+********************************************************************************************
+
 # Project Goal
 
 To practice Webpage structuring within ReactJS, so that I can build good habits that will help simplify my development for not only this project but for any other future dev project.
@@ -29,6 +32,8 @@ To practice Webpage structuring within ReactJS, so that I can build good habits 
 I believe this project also serves as great practice with refining my CSS skills (specifically with regards to mobile device handling Ex: @media).
 
 **********************************************************************************************
+
+# Closing Remarks
 
 I will be working on this project on a daily basis until completion.
 
