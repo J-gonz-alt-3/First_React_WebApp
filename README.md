@@ -6,7 +6,7 @@ My hope is that this project displays competency creating Responsive WebApps usi
 
 For those not familiar with what I mean by "Responsive", it simply means that as the screen real estate changes, the site will adjust with it. Maintaining readability and functionality for the user (regardless of the device or window size of the site).
 
-If you would like to test it out, simply open this webpage up on any browser of your liking and start adjusting the window size from full screen to half the screen, to really small, and everything in between!
+If you would like to test it out, simply open this webpage up on any browser of your liking and start adjusting the window size from full screen, to half the screen, to really small, and everything in between!
 
 Watch as the web app starts adjusting the content accordingly.
 
