@@ -1,6 +1,18 @@
-# Work in Progress
+# Completed Project
 
-3/4's completed project, however I wanted to upload what I had completed thus far to show competency using React JS to create this Responsive WebApp!
+First ReactJS project I've completed!
+
+My hope is that this project displays competency creating Responsive WebApps using ReactJS.
+
+For those not familiar with what I mean by "Responsive", it simply means that as the screen real estate changes, the site will adjust with it. Maintaining readability and functionality for the user (regardless of the device or window size of the site).
+
+If you would like to test it out, simply open this webpage up on any browser of your liking and start adjusting the window size from full screen to half the screen, to really small, and everything in between!
+
+Watch as the web app starts adjusting the content accordingly.
+
+Link to Project: https://gpt3-jpg.com (Hosted on Hostinger).
+
+********************************************************************************************
 
 Most of the important/relevant code is in the src folder.
 
