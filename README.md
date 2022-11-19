@@ -1,7 +1,5 @@
 # Completed Project
 
-First ReactJS project I've completed!
-
 My hope is that this project displays competency creating Responsive WebApps using ReactJS.
 
 For those not familiar with what I mean by "Responsive", it simply means that as the screen real estate changes, the site will adjust with it. Maintaining readability and functionality for the user (regardless of the device or window size of the site).
